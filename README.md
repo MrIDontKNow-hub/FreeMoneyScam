@@ -1,4 +1,8 @@
 # FreeMoneyScam
+
+!! Apparently the rat part of his malware file is stolen off a github user, https://github.com/Small1337/Yoink-Rat-Reupload/blob/a8037a7882c54747d70c6652801ff18b58475e3c/Rat-master/me/nigger/rat/payload/impl/RatRemover.java . I dont know how or if this will help but it is sure funny !!
+
+
 All of the things we have to nuke in FreeMoney'sHub website
 
 The list of things the rat steals
