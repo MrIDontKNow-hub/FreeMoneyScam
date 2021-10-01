@@ -2,7 +2,7 @@
 
  Apparently the rat part of his malware file is stolen off a github user so there is that
 
-All of the things we have to nuke in FreeMoney'sHub website
+All of the things we have to nuke in FreeMoney'sHub website, hypixelskyblock.net
 
 The list of things the rat steals
 
