@@ -71,5 +71,5 @@ Steals ShareX configs
 
 
 Anyway so basically FreeMoneyHub the user who created the notorious hypixel scam website hypixelskyblock.net (Hosted on google LLC ) that we are working hard to try our best to stop. 
-We, the people at Skyclient work hard to scams, and this is the biggest scam we found so far. Big credit goes to @AngryPineapple3121, @IlluminatiFish, @UnderscoreRayless, @koxx12-dev, @koxx12-dev-is-bad and Me, @MrIDontKNow-hub  for nuking and preventing the scam to work as intended.
+We, the people at Skyclient work hard to stop scams, and this is the biggest scam we found so far. Big credit goes to @AngryPineapple3121, @IlluminatiFish, @UnderscoreRayless, @koxx12-dev, @koxx12-dev-is-bad and Me, @MrIDontKNow-hub  for nuking and preventing the scam to work as intended.
 
